@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+pymongo
+dnspython
+scikit-learn
+spacy
+geopy
+pyngrok
+gunicorn
+uvicorn
+fastapi
+nest-asyncio
